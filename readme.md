@@ -2,7 +2,7 @@
 
 This is the repository created as part of Gatling Udemy Course
 
-Udemy Course Link - https://www.udemy.com/course/gatling-performance-testing-with-scala-jenkins
+Udemy Course Link - https://www.udemy.com/course/gatling-performance-testing-with-scala-jenkins/?referralCode=5730D5564DDD1A03E21F
 
 Please enroll in this course to get the full knowledge about this repository
 
